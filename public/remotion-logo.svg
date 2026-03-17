@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="remotion-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0B84F3;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6C3AE0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="40" fill="url(#remotion-grad)"/>
+  <polygon points="75,50 75,150 155,100" fill="white"/>
+</svg>
