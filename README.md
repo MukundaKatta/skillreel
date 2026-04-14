@@ -1,5 +1,7 @@
 # skillreel — Remotion animation showcasing the skills CLI announcement
 
+**Live:** <https://mukundakatta.github.io/skillreel/>
+
 Remotion animation showcasing the skills CLI announcement. skillreel gives you a focused, inspectable implementation of that idea.
 
 ## Why skillreel
